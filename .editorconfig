@@ -1,0 +1,17 @@
+# Top-most EditorConfig file
+root = true
+
+# Windows-style newlines with a newline ending every file
+[*]
+end_of_line = crlf
+insert_final_newline = true
+
+# Default charset
+charset = utf-8
+
+# Tab indentation (4 spaces width)
+indent_style = tab
+tab_width = 4
+
+# Trim trailing whitespace
+trim_trailing_whitespace = true
